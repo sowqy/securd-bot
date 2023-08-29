@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "discord-hybrid-sharding": "^2.1.2",
+    "discord-inviter": "^0.9.3",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "mysql2": "^3.1.2",
+    "sequelize": "^6.28.1",
+    "sqlite3": "^5.1.6",
+    "uni-sans-heavy": "^1.0.0"
+  },
+  "name": "securd",
+  "version": "1.0.0",
+  "description": "Melvy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tezz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
