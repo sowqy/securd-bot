@@ -12,13 +12,13 @@
   },
   "name": "securd",
   "version": "1.0.0",
-  "description": "Melvy",
+  "description": "securd",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tezz",
+  "author": "sowqy",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.22"
